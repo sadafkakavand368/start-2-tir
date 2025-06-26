@@ -13,3 +13,19 @@ This project helped me practice:
 - If/else expressions
 
 File: [to-do-list.py](./to-do-list.py)
+-------
+## project: calculator.py
+
+A simple command-line calculator written in python.
+
+### Features:
+- Takes two numbers and an operator as input
+- Supports basic operations: "+", "-", "/", "*"
+- Handles division by zero
+
+### Skills practiced:
+- Input/ output
+- Conditionals ("if", "elif", "else")
+- Variables and error handling
+
+File: [calculator.py](./calculator.py)
